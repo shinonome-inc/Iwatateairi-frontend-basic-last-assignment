@@ -19,13 +19,13 @@
   color: $white;
 }
 @media screen and (max-width: $breakpoint-md) {
-  .button{
+  .button {
     width: 150px;
     height: 55px;
   }
 }
 @media screen and (min-width: $breakpoint-lg) {
-  .button{
+  .button {
     width: 200px;
     height: 55px;
   }
